@@ -17,6 +17,8 @@ Get the latest build here: [Releases](https://github.com/Icesito68/Evolution-X-L
 
 | EvolutionX                           | [Link](https://github.com/Evolution-X) |
 
+- Special thanks to (EAZYBLACK)[https://github.com/EAZYBLACK]
+
 # Reporting a bug/issue
 I do not accept bug feedback if you have modified my ROM. I do not support following changes:
 
@@ -26,3 +28,4 @@ I do not accept bug feedback if you have modified my ROM. I do not support follo
 - Install on an unsupported device
 
 Thank you for your attention! Good luck, be grateful!
+
